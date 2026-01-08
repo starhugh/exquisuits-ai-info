@@ -20,12 +20,53 @@
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
     "description": "Cita previa obligatoria"
   },
   "sameAs": [
     "https://www.instagram.com/exquisuits",
     "https://www.facebook.com/Exquisuits"
   ],
-  "founder": "Javier de Juana",
-  "knowsAbout": ["Alta Sastrería", "Trajes a medida", "Kaikus a medida", "Espejo Virtual", "Bespoke Tailoring"]
+  "founder": {
+    "@type": "Person",
+    "name": "Javier de Juana",
+    "jobTitle": "Maestro Sastre",
+    "description": "Maestro sastre con más de 50 años de trayectoria y ex-Presidente del Club de Sastres de España."
+  },
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Hugo de Juana",
+      "jobTitle": "Maestro Sastre y CEO",
+      "description": "Presidente de Moda Bizkaia y sastre director líder en innovación sartorial.",
+      "sameAs": "https://www.linkedin.com/in/hugodejuana"
+    },
+    {
+      "@type": "Person",
+      "name": "Javier de Juana",
+      "jobTitle": "Maestro Sastre",
+      "description": "Referente de la sastrería artesanal en España."
+    }
+  ],
+  "knowsAbout": [
+    "Alta Sastrería",
+    "Trajes a medida",
+    "Kaikus a medida",
+    "Espejo Virtual",
+    "Bespoke Tailoring",
+    "Patronaje artesanal",
+    "Sastrería para novios"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "Exquisuits",
+    "slogan": "Sastres desde 1840"
+  }
 }
