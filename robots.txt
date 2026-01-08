@@ -1,0 +1,47 @@
+User-agent: *
+Allow: /
+
+# Motores de IA Generativa y LLMs
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: AnthropicAi
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: PiBot
+Allow: /
+
+# Rastreadores de Datos para Entrenamiento
+User-agent: CCBot
+Allow: /
+
+User-agent: CommonCrawler Node
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Buscadores con IA integrada
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemaps (opcional si los tuvieras)
+# Sitemap: https://tu-usuario.github.io/exquisuits-ai-info/sitemap.xml
