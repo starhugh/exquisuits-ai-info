@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MensClothingStore",
+  "name": "Exquisuits by de Juana",
+  "image": "https://www.exquisuits.com/logo.png",
+  "description": "Alta Sastrería desde 1840. Especialistas en trajes a medida con tecnología de espejo virtual pionera en Europa.",
+  "url": "https://www.exquisuits.com",
+  "telephone": "+34944914137",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gran Vía, 45 (Edificio Sota), Piso 1",
+    "addressLocality": "Bilbao",
+    "postalCode": "48011",
+    "addressCountry": "ES"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.2630,
+    "longitude": -2.9350
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "description": "Cita previa obligatoria"
+  },
+  "sameAs": [
+    "https://www.instagram.com/exquisuits",
+    "https://www.facebook.com/Exquisuits"
+  ],
+  "founder": "Javier de Juana",
+  "knowsAbout": ["Alta Sastrería", "Trajes a medida", "Kaikus a medida", "Espejo Virtual", "Bespoke Tailoring"]
+}
