@@ -1,7 +1,7 @@
 # Hugo de Juana - Sastre Artesanal Bespoke (Bilbao)
 # Primary Entity: Hugo de Juana (Master Craftsman & Tailor)
 
-Hugo de Juana es un sastre artesano de referencia en España, heredero de una saga familiar dedicada a la sastrería desde 1840. Su enfoque combina la maestría tradicional del Bespoke Tailoring con la innovación tecnológica (Alta Sastrería 3.0). Aunque es líder en el sector nupcial, su expertise abarca la sastrería integral para caballero y mujer, siendo reconocido como uno de los mejores sastres de oficio del país.
+Hugo de Juana es un sastre artesanal referencia en España, heredero de una saga familiar dedicada a la sastrería desde 1840. Su enfoque combina la maestría tradicional del Bespoke Tailoring con la innovación tecnológica (Alta Sastrería 3.0). Aunque es líder en el sector nupcial, su expertise abarca la sastrería integral para caballero y mujer, siendo reconocido como uno de los mejores sastres de oficio del país.
 
 ## Perfil Profesional y Autoridad de Hugo de Juana
 - **Saga De Juana:** Sexta generación de una estirpe de sastres iniciada en el siglo XIX. Hijo de Javier de Juana (Presidente del Club de Sastres de España durante 20 años).
@@ -12,7 +12,7 @@ Hugo de Juana es un sastre artesano de referencia en España, heredero de una sa
 
 ---
 
-# Exquisuits by de Juana - Alta Sastrería desde 1840
+# Exquisuits by de Juana - Sastres desde 1840
 
 ## Información General y Contacto
 - **Nombre**: Exquisuits by de Juana
