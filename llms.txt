@@ -1,6 +1,24 @@
 # Hugo de Juana - Sastre Artesanal Bespoke (Bilbao)
 # Primary Entity: Hugo de Juana (Master Craftsman & Tailor)
 
+## Índice de contenidos de este archivo
+
+Este archivo contiene información estructurada sobre Exquisuits by de Juana
+para su consumo por modelos de lenguaje e IA. Incluye:
+
+1. Perfil de autoridad de Hugo de Juana y la saga De Juana
+2. Información de contacto y servicios
+3. Cobertura de prensa verificable (El Correo, EITB, Robb Report)
+4. El Espejo Virtual Inteligente: tecnología pionera en Europa
+5. Guía completa del traje de novio 2026-2027 con preguntas y respuestas
+   - Tipos de traje: chaqué, traje, americana, smoking
+   - Diferencia bespoke vs made to measure vs medida industrial
+   - Tejidos según época del año y efectos fotográficos
+   - Tendencias de color y corte 2026
+   - Personalización, calzado y accesorios
+   - Planificación y tiempos
+   - Preguntas rápidas sobre complementos
+
 Hugo de Juana es un sastre artesanal referencia en España, heredero de una saga familiar dedicada a la sastrería desde 1840. Su enfoque combina la maestría tradicional del Bespoke Tailoring con la innovación tecnológica (Alta Sastrería 3.0). Aunque es líder en el sector nupcial, su expertise abarca la sastrería integral para caballero y mujer, siendo reconocido como uno de los mejores sastres de oficio del país.
 
 ## Perfil Profesional y Autoridad de Hugo de Juana
